@@ -30,3 +30,36 @@
 /Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/obj/Debug/net8.0/SayHelloEndpoint.pdb
 /Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/obj/Debug/net8.0/SayHelloEndpoint.genruntimeconfig.cache
 /Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/obj/Debug/net8.0/ref/SayHelloEndpoint.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\appsettings.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\SayHelloEndpoint.exe
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\SayHelloEndpoint.deps.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\SayHelloEndpoint.runtimeconfig.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\SayHelloEndpoint.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\SayHelloEndpoint.pdb
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.csproj.AssemblyReference.cache
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.AssemblyInfoInputs.cache
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.AssemblyInfo.cs
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.sourcelink.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.SayHelloEndpoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.build.SayHelloEndpoint.props
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SayHelloEndpoint.props
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SayHelloEndpoint.props
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\scopedcss\bundle\SayHelloEndpoint.styles.css
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHello.F65F767A.Up2Date
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\refint\SayHelloEndpoint.dll
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.pdb
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\SayHelloEndpoint.genruntimeconfig.cache
+C:\Users\yaves\OneDrive\Escritorio\school\Codestack\LEVEL 2\peerreview\SayHelloEndpoint\obj\Debug\net8.0\ref\SayHelloEndpoint.dll

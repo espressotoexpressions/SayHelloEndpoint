@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/SayHelloEndpoint.csproj": {}
+    "C:\\Users\\yaves\\OneDrive\\Escritorio\\school\\Codestack\\LEVEL 2\\peerreview\\SayHelloEndpoint\\SayHelloEndpoint.csproj": {}
   },
   "projects": {
-    "/Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/SayHelloEndpoint.csproj": {
+    "C:\\Users\\yaves\\OneDrive\\Escritorio\\school\\Codestack\\LEVEL 2\\peerreview\\SayHelloEndpoint\\SayHelloEndpoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/SayHelloEndpoint.csproj",
+        "projectUniqueName": "C:\\Users\\yaves\\OneDrive\\Escritorio\\school\\Codestack\\LEVEL 2\\peerreview\\SayHelloEndpoint\\SayHelloEndpoint.csproj",
         "projectName": "SayHelloEndpoint",
-        "projectPath": "/Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/SayHelloEndpoint.csproj",
-        "packagesPath": "/Users/karen/.nuget/packages/",
-        "outputPath": "/Users/karen/Desktop/Codestack/Level2/Week1/SayHelloEndpoint/obj/",
+        "projectPath": "C:\\Users\\yaves\\OneDrive\\Escritorio\\school\\Codestack\\LEVEL 2\\peerreview\\SayHelloEndpoint\\SayHelloEndpoint.csproj",
+        "packagesPath": "C:\\Users\\yaves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yaves\\OneDrive\\Escritorio\\school\\Codestack\\LEVEL 2\\peerreview\\SayHelloEndpoint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/karen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yaves\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
